@@ -8,7 +8,7 @@
                 class="brand-image opacity-75 shadow" />
             <!--end::Brand Image-->
             <!--begin::Brand Text-->
-            <span class="brand-text fw-light">Sistema</span>
+            <span class="brand-text fw-light">Inicio</span>
             <!--end::Brand Text-->
         </a>
         <!--end::Brand Link-->
@@ -31,7 +31,7 @@
                     <a href="{{route('perfil.pedidos')}}" class="nav-link" id="mnuPedidos">
                         <i class="nav-icon bi bi-bag-fill"></i>
                         <p>
-                            Pedidos
+                            Tus Servicios
                         </p>
                     </a>
                 </li>
